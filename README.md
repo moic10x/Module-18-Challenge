@@ -7,4 +7,6 @@ To run this application, the streamlit and hashlib libraries are required to be 
 ## Adding blocks
 Below is a screenshot displaying the functionality of the application as well as the validity of the blockchain created.
 
-![screenshot] (Starter_Code/...)
+![screenshot](Screenshot1.png)
+
+![screenshot2](Screenshot2.png)
